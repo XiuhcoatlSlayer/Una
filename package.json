@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "name": "una",
+  "description": "Role Management Discord Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deploy:commands": "node Scripts/deploycommands.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiuhcoatlSlayer/Una.git"
+  },
+  "author": "XiuhcoatlSlayer",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/XiuhcoatlSlayer/Una/issues"
+  },
+  "homepage": "https://github.com/XiuhcoatlSlayer/Una#readme"
+}
